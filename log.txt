@@ -1,0 +1,240 @@
+commit 3217d3a3cd5ff4abd9bb4f7dcff3c7ef7362068c
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Thu Mar 31 18:47:15 2022 +0100
+
+    Upload New File
+
+commit b183163dd64d93a3789d63aecaaad07cf1c7df2b
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Thu Mar 31 18:46:22 2022 +0100
+
+    Deleted Assignment 2/as2_final.zip
+
+commit d97ff8b97f3cecfbf09944ae7ff0004b27ac4c9d
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Thu Mar 31 18:30:51 2022 +0100
+
+    Update Assignment 2/as2_final.zip
+    Deleted Assignment 2/as2_1st_edition.zip
+
+commit 25fa92375ca66cdb90c32e36b8a8e89266e3f242
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Wed Mar 30 20:56:43 2022 +0100
+
+    Upload New File
+
+commit 93e29c198fcfb17a3f40e575003c7698a740409c
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Wed Mar 30 20:56:29 2022 +0100
+
+    Upload New File
+
+commit 1a17d03f9b53c683c41a223c657f0cf496010cd0
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Wed Mar 30 20:56:17 2022 +0100
+
+    Upload New File
+
+commit f2880adc9e99eae7e5573f753a0cbee564db169b
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Wed Mar 30 20:56:02 2022 +0100
+
+    Upload New File
+
+commit e21c1580520032845192569e252eec1e73a0791d
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Wed Mar 30 20:55:50 2022 +0100
+
+    Upload New File
+
+commit ad3547ee5be18782e28b75873d4e84fed70f7889
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Wed Mar 30 20:55:38 2022 +0100
+
+    Upload New File
+
+commit 17104d5d4e8728ff7ce64304ad8e5df57a8ce7b9
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Wed Mar 30 20:55:15 2022 +0100
+
+    Upload New File
+
+commit 4e43be14352fd3d623a5b8b0368018cf1166de36
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Wed Mar 30 20:54:59 2022 +0100
+
+    Upload New File
+
+commit 66e1c6e161bed084f5a2ebfd5a4b4fee9a65d1d4
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Wed Mar 30 20:54:45 2022 +0100
+
+    Upload New File
+
+commit 68c0cec560a74eb4c554013b5b86ce1a63799318
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Wed Mar 30 20:54:32 2022 +0100
+
+    Upload New File
+
+commit 258185d4de7776bc9d426c4e0d3ea995c855b4e1
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Wed Mar 30 20:54:13 2022 +0100
+
+    Deleted Assignment 2/7-segment.png, Assignment 2/block counter.png, Assignment 2/button smooth.png, Assignment 2/clock divider.png, Assignment 2/player control.png, Assignment 2/player walk.png, Assignment 2/player_walk.png, Assignment 2/score count.png, Assignment 2/speed control.png, Assignment 2/top design.png, Assignment 2/wall map.png
+
+commit fab52040c8b2e4d419ecd40e5e7858b2599183d9
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Wed Mar 30 20:53:14 2022 +0100
+
+    Update Assignment 2/7-segment.png, Assignment 2/block counter.png, Assignment 2/button smooth.png, Assignment 2/clock divider.png, Assignment 2/player control.png, Assignment 2/player walk.png, Assignment 2/score count.png, Assignment 2/speed control.png, Assignment 2/top design.png, Assignment 2/wall map.png
+
+commit 4a66f71fc88c0d23efbb8f20d44d0e91ccb84664
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Wed Mar 30 20:51:27 2022 +0100
+
+    Update 7-segment.png, block counter.png, button smooth.png, clock divider.png, player control.png, player walk.png, score count.png, speed control.png, top design.png, wall map.png
+
+commit 50eeac8b3dd10fbc2ea64013e96052f83bd5e519
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Wed Mar 30 20:50:38 2022 +0100
+
+    Upload New File
+
+commit 2a66a94bd62c5a0e39f388b4588d971199c72fc3
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Sun Mar 27 07:28:27 2022 +0100
+
+    Upload New File
+
+commit 52c1dc59af72fe1f53c55660c5e9fdda9e2487ec
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Sun Mar 27 07:26:10 2022 +0100
+
+    Deleted Lab6/.gitkeep, Lab7/.gitkeep
+
+commit 3c5fb665134df50f3b602f3b5e8007d966cc9fc1
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Sun Mar 27 06:21:16 2022 +0100
+
+    Update vga_controller_640_60.vhd
+
+commit 5be8c9b063fa7e744886bd668fe4f19fe9041c5c
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Mon Mar 21 07:48:34 2022 +0000
+
+    Add new directory
+
+commit c68aa2882064e373906546c5c1f15263f3eaf290
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Mon Mar 21 07:48:16 2022 +0000
+
+    Add new directory
+
+commit 517b1be13d88248b53ad3e618947417dff0a67ad
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Mon Mar 21 07:47:49 2022 +0000
+
+    Add new directory
+
+commit 71b9948fe67d4246b4e9ad0a4500c7cc452d3ee2
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Mon Mar 21 07:47:36 2022 +0000
+
+    Upload New File
+
+commit e8762cdf5ed26b66e2dfe7871ba888a2896cea7a
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Mon Mar 21 07:47:10 2022 +0000
+
+    Delete as2_1st_edition.zip
+
+commit 18543b6d33e1a1edb0120a9d6951abe84060b0fe
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Mon Mar 21 07:46:53 2022 +0000
+
+    Upload New File
+
+commit a5df1a900894b2c4b442495268eb9b6f35985a2d
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Mon Mar 21 07:44:45 2022 +0000
+
+    Upload New File
+
+commit 9f9ac313160b4b39464dca11ec435237829a0093
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Mon Mar 21 07:43:42 2022 +0000
+
+    Add new directory
+
+commit 03a3ebb414aa3235f8f34407ff222b1e3cbd69ad
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Fri Feb 18 08:33:21 2022 +0000
+
+    Upload New File
+
+commit ec13aa8fe33949a91af74f66b18072547723698c
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Fri Feb 18 08:32:47 2022 +0000
+
+    Add new directory
+
+commit 0e87dfc4e830407c50e81be9457a0051578d1529
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Thu Feb 17 10:26:13 2022 +0000
+
+    Upload New File
+
+commit 2788343251d2a8b6aeb8c132e820ff5dd1245afc
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Thu Feb 17 10:25:46 2022 +0000
+
+    Upload New File
+
+commit 1bf11d2c1587c800eca45afe9a2e0d9608fe4d17
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Sun Feb 6 09:38:29 2022 +0000
+
+    Upload New File
+
+commit dc2c3846966883072306a0f73d57fd8b120869f3
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Sun Feb 6 09:37:10 2022 +0000
+
+    Upload New File
+
+commit 5a241f4e50ea09fadb8c3c3a1dec25a71b27fde4
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Sun Feb 6 02:11:55 2022 +0000
+
+    Add new directory
+
+commit dfbf58dcf039af33bbe0c1c345b77c96b09c9c15
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Sun Feb 6 02:11:42 2022 +0000
+
+    Add new directory
+
+commit 6d896d161f4261e11ee376cf66ca4ad6c380a3bd
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Sun Jan 30 02:47:36 2022 +0000
+
+    Update lab_2/lab_2.docx, lab_2/lab2.rar
+
+commit 3680f327313f0fc23e89e5cdd09d76496ec4fe65
+Author: Liu, Ziyang <zl18972@essex.ac.uk>
+Date:   Mon Jan 24 02:08:06 2022 +0000
+
+    Update lab_1/lab_1.docx, lab_1/lab_1.rar
+
+commit 93d4479718c467ccab6a0e554bda24365aae9ab7
+Author: CSEE Gitlab Administrator <root@cseegit.essex.ac.uk>
+Date:   Wed Jan 12 12:04:40 2022 +0000
+
+    Deleting testfile now that master branch has been created
+
+commit bf4ac6e4d6a481c814e1cd967affd3d45de9437f
+Author: Administrator <ces-faults@essex.ac.uk>
+Date:   Wed Jan 12 12:04:40 2022 +0000
+
+    Create testfile to force master branch creation
