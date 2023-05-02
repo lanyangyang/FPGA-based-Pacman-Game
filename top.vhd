@@ -8,7 +8,7 @@
 -- Project Name: CE339-Assignment 2
 -- Target Devices: Basys3
 -- Tool Versions: Vivado 2020
--- Description: This is tope design of assignment 2. It connects everything together.
+-- Description: This is top design of assignment 2. It connects everything together.
 -- 
 ----------------------------------------------------------------------------------
 library IEEE;
